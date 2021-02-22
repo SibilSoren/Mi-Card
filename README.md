@@ -1,4 +1,4 @@
-# mi_cardv2
+# MI Card
 
 A new Flutter application.
 
